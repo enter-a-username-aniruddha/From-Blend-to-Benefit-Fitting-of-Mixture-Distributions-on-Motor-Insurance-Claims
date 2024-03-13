@@ -1,0 +1,11 @@
+The research paper titled "Fitting of mixture distributions on motor insurance claims" presents a thorough investigation conducted by the Nilkamal School of Mathematics, Applied Statistics & Analytics, NMIMS. The study centers on utilizing finite mixture distributions to model real motor insurance claim data, with a specific focus on exploring the suitability of finite mixture Lognormal distributions within this framework.
+
+This research is particularly significant in the insurance industry, where handling skewed or non-normal claims data, capturing heterogeneity, modeling complex distributions, and detecting fraud are paramount concerns. By leveraging finite mixture Lognormal distributions, the study aims to address these challenges and enhance the industry's analytical capabilities.
+
+The methodology adopted in the study involves the utilization of the Expectation-Maximization (EM) algorithm and the Kolmogorov–Smirnov test. These tools are employed to estimate parameters and evaluate the goodness of fit for the finite mixture Lognormal distributions, ensuring robustness and accuracy in the modeling process.
+
+Furthermore, the document delves into the practical implications of the research, emphasizing its potential to improve customer experience, drive the development of customer-centric products, and enhance claims processing efficiency within the insurance sector. By leveraging advanced statistical techniques, insurers can better understand claim patterns, tailor their offerings to meet customer needs, and mitigate risks effectively.
+
+Moreover, the study draws upon previous research papers and external sources, underlining its academic rigor and scholarly foundation. This comprehensive approach not only strengthens the credibility of the findings but also enriches the discourse surrounding statistical modeling in insurance.
+
+In conclusion, the document significantly contributes to advancing statistical modeling within the insurance industry, particularly concerning motor insurance claims. By leveraging finite mixture Lognormal distributions and sophisticated analytical techniques, the research offers valuable insights for decision-making, predictive modeling, and risk management, thereby fostering innovation and efficiency in the sector.
